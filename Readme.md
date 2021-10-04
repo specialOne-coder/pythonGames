@@ -1,4 +1,4 @@
-# pythonGames
+## Python Game
 
 A simple game in python using pygame
 
